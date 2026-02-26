@@ -2,7 +2,7 @@
 An Arduino-based lidar scanner using servos and a sensor!
 
 # TIMELAPSE
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/9DGGy05kz-A/mqdefault_6s.webp?du=3000&sqp=CNCs_8wG&rs=AOn4CLCeLwmWLojeV820FQk3BHz-0z0jog)](https://youtu.be/9DGGy05kz-A?si=pKmqsRiP4jmc_0Pk)
 
 # HOW TO USE
 1. Download Arduino IDE and Processing software.
